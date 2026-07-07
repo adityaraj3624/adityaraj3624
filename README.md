@@ -185,30 +185,6 @@ Currently pursuing certifications in:
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=adityaraj3624&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=adityaraj3624&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj3624&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=adityaraj3624&theme=algolia&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
 # Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=adityaraj3624&theme=tokyo-night)
