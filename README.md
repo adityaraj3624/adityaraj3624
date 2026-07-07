@@ -208,7 +208,7 @@ Exploring:
   - Artificial Intelligence
   - Open Source
 
-Open_To:
+Open To:
   - Software Engineering Internships
   - Collaborative Projects
 ```
