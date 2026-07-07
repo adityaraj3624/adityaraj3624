@@ -64,7 +64,7 @@ Currently focused on developing real-world projects, strengthening my problem-so
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=github,vscode"/>
 </p>
 
 ---
@@ -141,7 +141,7 @@ Menu-driven student management application built using **C++** and **Object-Orie
 
 ### Student Developer
 
-**2025 – Present**
+**Pursuing BTech CSE At Manipal University Jaipur**
 
 Developing software projects while strengthening problem-solving skills through competitive programming and continuous learning.
 
@@ -169,9 +169,7 @@ Developing software projects while strengthening problem-solving skills through 
 
 Currently pursuing certifications in:
 
-- NPTEL
-- Cisco Networking Academy
-- AWS Cloud Foundations
+- NONE
 
 ---
 
