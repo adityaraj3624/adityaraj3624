@@ -1,86 +1,137 @@
+<div align="center">
 
-# GitHub Profile README
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Aditya%20Raj&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Competitive%20Programmer&descAlignY=58&fontColor=ffffff"/>
 
-> **Note:** A complete FAANG-style profile README with all requested widgets, badges,
-> collapsible sections, analytics, trophies, graphs, and premium formatting is too
-> large to fit in a normal chat response. This file is provided as a downloadable
-> starting point with the required structure, ready for customization.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Competitive+Programmer;C%2B%2B+Developer;Building+Real-World+Projects;Always+Learning+Something+New"/>
 
-# Replace `YOUR_USERNAME`, links, and placeholders with your own information.
+<br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6a11cb,2575fc&height=220&section=header&text=Aditya%20Raj&fontSize=50&fontColor=ffffff"/>
-</p>
+![](https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/Manipal%20University-Jaipur-6A5ACD?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Jaipur%2C%20India-4B0082?style=for-the-badge)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;C%2B%2B+Developer;Python+Learner;Building+Real-World+Projects"/>
-</p>
+<a href="mailto:adityaraj3624@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="center">
-<img src="https://img.shields.io/badge/MUJ-B.Tech%20CSE-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge"/>
-<a href="https://github.com/sekiiroo"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://linkedin.com/in/adityaraj3624"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-</p>
+<a href="https://linkedin.com/in/adityaraj3624">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/adityaraj3624">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=adityaraj3624&style=for-the-badge&color=6A5ACD)
+
+</div>
 
 ---
 
-# About
+# About Me
 
-Computer Science undergraduate focused on software engineering, problem solving, and building practical applications. Currently developing C++ and Python projects while learning APIs, Git, and modern development practices.
+I'm a **second-year B.Tech Computer Science Engineering student** at **Manipal University Jaipur** with a strong interest in **Software Engineering**, **Competitive Programming**, and **Backend Development**.
 
-**Open To**
+I enjoy solving algorithmic problems, building practical software projects, and continuously improving my understanding of **Data Structures & Algorithms**, **Object-Oriented Programming**, and modern software development practices.
+
+Currently focused on developing real-world projects, strengthening my problem-solving skills, and preparing for Software Engineering internship opportunities.
+
+### Open To
+
 - Software Engineering Internships
-- Open Source
-- Collaborative Projects
+- Open Source Contributions
+- Collaborative Development Projects
 
 ---
 
 # Tech Stack
 
-## Languages
+### Languages
 
-![C++](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python"/>
+</p>
 
-## Tools
+### Computer Science
 
-![Git](https://skillicons.dev/icons?i=git,github,vscode)
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Problem Solving
+- File Handling
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 
 ---
 
-# AI / ML
+# Learning Journey
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Python | Learning | APIs, automation |
-| AI/ML | Beginner | Exploring fundamentals |
+| Domain | Current Focus | Details |
+|---------|---------------|---------|
+| C++ | Advanced | OOP, File Handling, DSA |
+| Python | Intermediate | APIs, JSON, Automation |
+| Data Structures | Learning | Arrays, Linked Lists, Trees |
+| Backend Development | Exploring | REST APIs |
+| Competitive Programming | Active | Codeforces Practice |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>SpendSense – Personal Expense Tracker</b></summary>
+<summary><b>💰 SpendSense – Personal Expense Tracker</b></summary>
 
-Console-based expense tracker built using C++.
+Console-based expense management application developed in **C++** with persistent file storage.
 
 | Category | Details |
-|---|---|
+|-----------|---------|
 | Stack | C++, File Handling |
-| Features | CRUD, Search, Reports |
-| Repository | https://github.com/sekiiroo/spendsense-cpp |
+| Features | CRUD Operations |
+| Search | Category & Date Filtering |
+| Reports | Monthly Summary |
+| Validation | Date & Amount Validation |
+| Repository | https://github.com/adityaraj3624/spendsense-cpp |
+
+### Highlights
+
+- Persistent file storage
+- Modular programming
+- Expense analytics
+- Date range filtering
+- Monthly reports
+- Highest expense tracking
+- Clean menu-driven interface
 
 </details>
 
+---
+
 <details>
-<summary><b>Student Management System</b></summary>
+<summary><b>🎓 Student Management System</b></summary>
+
+Menu-driven student management application built using **C++** and **Object-Oriented Programming**.
 
 | Category | Details |
-|---|---|
+|-----------|---------|
 | Stack | C++ |
-| Features | CRUD, Search, Validation |
-| Repository | https://github.com/sekiiroo/student-management-system-cpp |
+| Features | CRUD Operations |
+| Validation | Roll Number & CGPA |
+| Search | Roll Number & Name |
+| Repository | https://github.com/adityaraj3624/student-management-system-cpp |
+
+### Highlights
+
+- Student record management
+- Duplicate roll validation
+- CGPA validation
+- Topper identification
+- Search by name
+- Search by roll number
 
 </details>
 
@@ -88,54 +139,81 @@ Console-based expense tracker built using C++.
 
 # Experience
 
-**Student Developer**
+### Student Developer
 
-Building academic and personal software projects.
+**2025 – Present**
+
+Developing software projects while strengthening problem-solving skills through competitive programming and continuous learning.
+
+**Current Focus**
+
+- Building practical software applications
+- Learning Data Structures & Algorithms
+- Exploring Python APIs
+- Improving software design principles
 
 ---
 
 # Achievements
 
 | Recognition | Details |
-|---|---|
-| Projects | Multiple C++ portfolio projects |
+|-------------|---------|
+| Academic | B.Tech Computer Science Engineering Student |
+| Projects | Developed multiple C++ applications |
+| Programming | Active Competitive Programming Learner |
+| Skills | Strong foundation in C++, OOP & File Handling |
 
 ---
 
 # Certifications
 
-- NPTEL (Planned)
-- Cisco (Planned)
-- AWS (Planned)
+Currently pursuing certifications in:
+
+- NPTEL
+- Cisco Networking Academy
+- AWS Cloud Foundations
 
 ---
 
 # Coding Profiles
 
-- Codeforces
-- LeetCode
-- HackerRank
-- GeeksforGeeks
+<p>
+
+<a href="https://codeforces.com/profile/sekiiroshadowsdietwice">
+<img src="https://img.shields.io/badge/Codeforces-Profile-445f9d?style=for-the-badge&logo=codeforces"/>
+</a>
+
+</p>
 
 ---
 
 # GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=adityaraj3624&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=adityaraj3624&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj3624&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-# Trophies
+# GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia)
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=adityaraj3624&theme=algolia&no-frame=true&row=1&column=6)
+
+</div>
 
 ---
 
-# Activity Graph
+# Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=adityaraj3624&theme=tokyo-night)
 
 ---
 
@@ -143,27 +221,50 @@ Building academic and personal software projects.
 
 ```yaml
 Learning:
-  - Python
-  - APIs
+  - Data Structures & Algorithms
+  - Python APIs
+  - Backend Development
+
 Building:
   - WeatherNow
+  - More C++ Projects
+  - GitHub Portfolio
+
 Exploring:
+  - Artificial Intelligence
   - Open Source
+
 Open_To:
-  - Internships
+  - Software Engineering Internships
+  - Collaborative Projects
 ```
 
 ---
 
 # Connect
 
-- GitHub: https://github.com/sekiiroo
-- LinkedIn: https://linkedin.com/in/adityaraj3624
+<p align="center">
+
+<a href="mailto:adityaraj3624@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/adityaraj3624">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/adityaraj3624">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
-> "Keep building. Small projects become big opportunities."
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2575fc,6a11cb&height=140&section=footer"/>
-</p>
+*"Code is not just about solving problems—it's about building solutions that make an impact."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24,30&section=footer"/>
+
+</div>
