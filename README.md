@@ -191,21 +191,25 @@ Currently pursuing certifications in:
 
 # Coding Stats
 
-<p align="center">
+<table>
+<tr>
+
+<td align="center">
 
 <a href="https://codeforces.com/profile/sekiroshadowsdietwice">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=sekiroshadowsdietwice" />
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=sekiroshadowsdietwice&theme=dark" width="400"/>
 </a>
 
-</p>
+</td>
 
-### LeetCode
+<td align="center">
 
 <a href="https://leetcode.com/u/sekiiroo/">
 <img src="https://leetcard.jacoblin.cool/sekiiroo?theme=dark" width="400"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
