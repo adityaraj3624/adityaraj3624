@@ -187,7 +187,7 @@ Currently pursuing certifications in:
 
 # Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=adityaraj3624&theme=tokyo-night)
+bun add github:Ryan-Westfall/codeforces-stats-card
 
 ---
 
