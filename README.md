@@ -175,19 +175,29 @@ Currently pursuing certifications in:
 
 # Coding Profiles
 
-<p>
+<p align="center">
 
-<a href="https://codeforces.com/profile/sekiiroshadowsdietwice">
+<a href="https://codeforces.com/profile/sekiroshadowsdietwice">
 <img src="https://img.shields.io/badge/Codeforces-Profile-445f9d?style=for-the-badge&logo=codeforces"/>
+</a>
+
+<a href="https://leetcode.com/u/sekiiroo/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
 
 ---
 
-# Contribution Graph
+# Codeforces Stats
 
-bun add github:Ryan-Westfall/codeforces-stats-card
+<p align="center">
+
+<a href="https://codeforces.com/profile/sekiroshadowsdietwice">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=sekiroshadowsdietwice" />
+</a>
+
+</p>
 
 ---
 
